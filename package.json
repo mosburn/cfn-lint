@@ -14,7 +14,7 @@
     "url": "https://github.com/martysweet/cfn-lint/issues"
   },
   "dependencies": {
-    "cloudformation-js-yaml-schema": "0.3.0",
+    "cloudformation-js-yaml-schema": "0.4.2",
     "colors": "latest",
     "commander": "latest",
     "fs": "0.0.2",
